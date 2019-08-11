@@ -1,0 +1,38 @@
+
+
+body {
+    background-color: #fff6da;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E0E0E0;
+  border-width: 5px;
+
+  width: 10%;
+
+}
+.describe {
+  border: solid;
+  border-color: #B6B6B6;
+  border-width: 1.4px;
+  width: 100%;
+}
+
+h1 { color: #042F4B;
+}
+h3 { color: #042F4B;}
+
+strong { color: #042F4B;}
+
+font {color: #042F4B;}
+
+li { color: black;}
+p { color: #042F4B;}
+center {color: #042F4B;}
+
+
+
+/*img {border-radius: 75%;}*/
+/*.circular{border-radius: 75%;}*/
