@@ -32,17 +32,13 @@ strong { color: #042F4B;}
 
 font {color: #042F4B;}
 
-li { color: black;}
+li { color: black;
+    margin: -2px;}
 p { color: #042F4B;}
 center {color: #042F4B;}
 
-br {
- display: block;
- margin-top: 5px;
- line-height: 20px;
-}
-
-
+p {
+  margin: -3px;
 
 /*img {border-radius: 75%;}*/
 /*.circular{border-radius: 75%;}*/
