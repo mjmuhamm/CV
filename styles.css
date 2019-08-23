@@ -36,6 +36,10 @@ li { color: black;}
 p { color: #042F4B;}
 center {color: #042F4B;}
 
+br {
+ margin-top: 5px;
+}
+
 
 
 /*img {border-radius: 75%;}*/
