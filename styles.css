@@ -34,11 +34,12 @@ font {color: #042F4B;}
 
 li { color: black;
     margin: -2px;}
-p { color: #042F4B;}
+p { color: #042F4B;
+margin: auto 20px auto;}
 center {color: #042F4B;}
 
-p {
-  margin: -3px 0;
+p.footer-tabs {
+  margin: -3px 5px;
 
 /*img {border-radius: 75%;}*/
 /*.circular{border-radius: 75%;}*/
