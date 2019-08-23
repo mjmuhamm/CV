@@ -37,6 +37,7 @@ p { color: #042F4B;}
 center {color: #042F4B;}
 
 br {
+ display: block;
  margin-top: 5px;
 }
 
