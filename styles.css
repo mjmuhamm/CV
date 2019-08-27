@@ -17,6 +17,11 @@ hr {
 img {
     border-radius: 8px;
 }
+
+.rinse-description {
+    color: black;
+    font-size: 12px;
+}
 .describe {
   border: solid;
   border-color: #B6B6B6;
