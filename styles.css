@@ -21,6 +21,7 @@ img {
 .rinse-description {
     color: black;
     font-size: 12px;
+    margin: -2px auto auto auto;
 }
 .describe {
   border: solid;
