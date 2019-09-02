@@ -18,6 +18,10 @@ img {
     border-radius: 8px;
 }
 
+.pic {
+    text-align: center;
+}
+
 .rinse-description {
     color: black;
     font-size: 12px;
