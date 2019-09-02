@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>LetUs-Preview</title>
+  <title>Web Development</title>
      <link href="https://fonts.googleapis.com/css?family=Catamaran&display=swap" rel="stylesheet">
 
     <!-- CSS Style Sheets -->
@@ -42,8 +42,18 @@
   </table>
 
   <hr class="describe">
-  <p><center>LetUs MVP (Preview)</center></p>
+  <p><center>Web Development is the practice of creating web pages and web applications through utilizing front & back end programming languages.</center></p>
   <hr class="describe">
+
+
+
+
+  <h3>Web Development</h3>
+
+  <strong>
+    <img src = "LetUs-Preview.html">
+  </strong></font>
+
 
 </body>
 </html>
